@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Env
+.env
+
+# OS
+.DS_Store
+
+# Note: data/products.csv and dashboard/index.html ARE committed — they're the
+# demo output, and the scheduled Action refreshes them on a cron.
