@@ -5,7 +5,7 @@
 
 **Client hook:** *Wake up to fresh competitor data every morning.*
 
-![demo](docs/demo.gif) <!-- record a GIF of `python demo.py` + opening the dashboard and drop it here -->
+![demo](docs/demo.png) <!-- the auto-generated dashboard: price chart + sortable table -->
 
 ## What it does
 
